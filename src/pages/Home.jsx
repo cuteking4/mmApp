@@ -39,6 +39,7 @@ const Home = () => {
         console.log("Login successful", response.data);
         reset();
  // Change this path as per your application flow
+        navigate("/pin");
       })
       .catch((error) => {
         console.error("Error during login", error);
