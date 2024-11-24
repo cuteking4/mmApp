@@ -80,7 +80,7 @@ input:focus {
 .toggle-password {
   position: absolute;
   top: 50%;
-  right: 15px;
+   left: 6.5em;
   transform: translateY(-50%);
   background: none;
   border: none;
