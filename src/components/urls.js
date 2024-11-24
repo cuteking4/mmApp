@@ -1,3 +1,3 @@
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://mm-server-ecru.vercel.app";
 
 export default BASE_URL;
